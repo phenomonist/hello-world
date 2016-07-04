@@ -1,2 +1,4 @@
 # hello-world
-test
+notes, repetition, insight
+
+
